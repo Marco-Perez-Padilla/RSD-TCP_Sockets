@@ -5,9 +5,6 @@
 //                       
 //                    This class processes an FTP transaction.
 // 
-//                        PE104-11:
-//                          Juan Xavier León Pérez
-//                          Marco Pérez Padilla
 //****************************************************************************
 
 #include <cstring>

@@ -5,9 +5,6 @@
 //                       
 //                        Main class of the FTP server
 // 
-//                        PE104-11:
-//                          Juan Xavier León Pérez
-//                          Marco Pérez Padilla
 //****************************************************************************
 
 #include <cerrno>
