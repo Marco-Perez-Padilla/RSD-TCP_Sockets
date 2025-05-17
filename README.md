@@ -30,6 +30,7 @@ Note that the `port` argument is optional. A random one will be assigned if not 
 ## Testing
 1. Install and activate the python environment
 ```shell
+cd  sockets2425-pe104-11
 sudo apt install python3.12-venv
 sudo apt install python3-pip
 python3 -m venv venv
